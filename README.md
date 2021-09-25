@@ -1,2 +1,2 @@
 # BasicGame
-by.vjgy
+byvjgy
